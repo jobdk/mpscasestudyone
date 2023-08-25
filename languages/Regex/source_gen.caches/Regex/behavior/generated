@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<product version="3" modelHash="afksr085u92f4dejz60qou1bdit3i4n">
+  <files names="AnythingTerm__BehaviorDescriptor.java:BehaviorAspectDescriptor.java:EndsWith__BehaviorDescriptor.java:FollowedWith__BehaviorDescriptor.java:LettersTerm__BehaviorDescriptor.java:NumbersTerm__BehaviorDescriptor.java:OccursIndefinitely__BehaviorDescriptor.java:OccursQuantification__BehaviorDescriptor.java:OccursRange__BehaviorDescriptor.java:OrTerm__BehaviorDescriptor.java:RegexTerm__BehaviorDescriptor.java:Regex__BehaviorDescriptor.java:SomethingTerm__BehaviorDescriptor.java:StartsWith__BehaviorDescriptor.java:StringTerm__BehaviorDescriptor.java:Term__BehaviorDescriptor.java:WithExpression__BehaviorDescriptor.java" />
+</product>
+

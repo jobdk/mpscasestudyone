@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<product version="3" modelHash="6x6sylr6fjy7utjnnvofme4a9g0db7c">
+  <files names="AnythingTerm_Editor.java:AnythingTerm_EditorBuilder_a.java:EditorAspectDescriptorImpl.java:EndsWith_Editor.java:EndsWith_EditorBuilder_a.java:FollowedWith_Editor.java:FollowedWith_EditorBuilder_a.java:LettersTerm_Editor.java:LettersTerm_EditorBuilder_a.java:NumbersTerm_Editor.java:NumbersTerm_EditorBuilder_a.java:OccursActionMap.java:OccursIndefinitely_Editor.java:OccursIndefinitely_EditorBuilder_a.java:OccursQuantityTransformationMenu.java:OccursRange_Editor.java:OccursRange_EditorBuilder_a.java:OrTermActionMap.java:OrTerm_Editor.java:OrTerm_EditorBuilder_a.java:OrTerm_SubstituteMenu.java:OrTransformation.java:RegexTerm_Editor.java:RegexTerm_EditorBuilder_a.java:Regex_Editor.java:Regex_EditorBuilder_a.java:SomethingTerm_Editor.java:SomethingTerm_EditorBuilder_a.java:StartsWith_Editor.java:StartsWith_EditorBuilder_a.java:StringTermTransformation.java:StringTerm_Editor.java:StringTerm_EditorBuilder_a.java:Term_SubstituteMenu.java:WithExpression_SubstituteMenu.java" />
+</product>
+

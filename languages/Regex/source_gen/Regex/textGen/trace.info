@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<debug-info version="2">
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1082113931046:jetbrains.mps.baseLanguage.structure.ContinueStatement" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1068580123155:jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1068580123159:jetbrains.mps.baseLanguage.structure.IfStatement" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1068580123165:jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1068581242864:jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1068581242878:jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1081236700938:jetbrains.mps.baseLanguage.structure.StaticMethodDeclaration" />
+  <root>
+    <file name="TextGenAspectDescriptor.java">
+      <unit at="50,0,53,0" name="Regex.textGen.TextGenAspectDescriptor$CONCEPTS" />
+      <unit at="16,0,54,0" name="Regex.textGen.TextGenAspectDescriptor" />
+    </file>
+  </root>
+  <root nodeRef="r:22e17688-7835-44c0-bfb9-a1688bdc8ebc(Regex.textGen)/1899509154288883473">
+    <file name="Regex_TextGen.java">
+      <node id="1899509154288883473" at="12,54,13,55" concept="4" />
+      <node id="1899509154288918652" at="13,55,14,97" concept="1" />
+      <node id="1899509154288883473" at="11,0,16,0" concept="3" trace="generateText#(Ljetbrains/mps/text/rt/TextGenContext;)V" />
+      <scope id="1899509154288883473" at="12,54,14,97">
+        <var name="tgs" id="1899509154288883473" />
+      </scope>
+      <scope id="1899509154288883473" at="11,0,16,0">
+        <var name="ctx" id="1899509154288883473" />
+      </scope>
+      <unit id="1899509154288883473" at="10,0,17,0" name="Regex.textGen.Regex_TextGen" />
+    </file>
+    <file name="TextGenAspectDescriptor.java">
+      <node id="1899509154288883473" at="26,39,27,35" concept="5" />
+      <node id="1899509154288883473" at="35,56,36,47" concept="4" />
+      <node id="1899509154288883473" at="36,47,37,50" concept="4" />
+      <node id="1899509154288883473" at="37,50,38,84" concept="1" />
+      <node id="1899509154288883473" at="38,84,39,17" concept="0" />
+      <node id="1899509154288884151" at="43,55,44,23" concept="5" />
+      <node id="1899509154288883997" at="46,60,47,17" concept="5" />
+      <node id="1899509154288883473" at="43,0,46,0" concept="6" trace="getFileName_Regex#(Lorg/jetbrains/mps/openapi/model/SNode;)Ljava/lang/String;" />
+      <node id="1899509154288883473" at="46,0,49,0" concept="6" trace="getFileExtension_Regex#(Lorg/jetbrains/mps/openapi/model/SNode;)Ljava/lang/String;" />
+      <node id="1899509154288883473" at="34,58,40,7" concept="2" />
+      <scope id="1899509154288883473" at="26,39,27,35" />
+      <scope id="1899509154288883473" at="43,55,44,23" />
+      <scope id="1899509154288883473" at="46,60,47,17" />
+      <scope id="1899509154288883473" at="43,0,46,0">
+        <var name="node" id="1899509154288883473" />
+      </scope>
+      <scope id="1899509154288883473" at="46,0,49,0">
+        <var name="node" id="1899509154288883473" />
+      </scope>
+      <scope id="1899509154288883473" at="35,56,39,17">
+        <var name="ext" id="1899509154288883473" />
+        <var name="fname" id="1899509154288883473" />
+      </scope>
+    </file>
+  </root>
+</debug-info>
+

@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<debug-info version="2">
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1082485599095:jetbrains.mps.baseLanguage.structure.BlockStatement" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1068580123140:jetbrains.mps.baseLanguage.structure.ConstructorDeclaration" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1068580123155:jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1068580123159:jetbrains.mps.baseLanguage.structure.IfStatement" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1068580123165:jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1068581242864:jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1068581242878:jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1068580123157:jetbrains.mps.baseLanguage.structure.Statement" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1070462154015:jetbrains.mps.baseLanguage.structure.StaticFieldDeclaration" />
+  <root>
+    <file name="TypesystemDescriptor.java">
+      <unit at="8,0,16,0" name="Regex.typesystem.TypesystemDescriptor" />
+    </file>
+  </root>
+  <root nodeRef="r:2811719e-63f6-4f56-bca1-946304c41949(Regex.typesystem)/1899509154290316751">
+    <file name="TypesystemDescriptor.java">
+      <node id="1899509154290316751" at="10,5,11,94" concept="5" />
+      <node id="1899509154290316751" at="11,94,12,55" concept="2" />
+      <node id="1899509154290316751" at="9,33,13,5" concept="0" />
+      <scope id="1899509154290316751" at="10,5,12,55">
+        <var name="nonTypesystemRule" id="1899509154290316751" />
+      </scope>
+    </file>
+    <file name="check_OccursRange_NonTypesystemRule.java">
+      <node id="1899509154290327444" at="24,7,25,66" concept="5" />
+      <node id="1899509154290327444" at="25,66,26,248" concept="5" />
+      <node id="1899509154290326276" at="28,5,29,0" concept="7" />
+      <node id="1899509154290328830" at="31,7,32,66" concept="5" />
+      <node id="1899509154290328830" at="32,66,33,247" concept="5" />
+      <node id="1899509154290374261" at="35,5,36,0" concept="7" />
+      <node id="1899509154290382750" at="38,7,39,66" concept="5" />
+      <node id="1899509154290382750" at="39,66,40,238" concept="5" />
+      <node id="1899509154290316751" at="44,50,45,35" concept="6" />
+      <node id="1899509154290316751" at="47,68,48,102" concept="6" />
+      <node id="1899509154290316751" at="50,30,51,17" concept="6" />
+      <node id="1899509154290316751" at="55,0,56,0" concept="8" trace="first$9WYf" />
+      <node id="1899509154290316751" at="56,0,57,0" concept="8" trace="last$9Xsh" />
+      <node id="1899509154290316751" at="60,0,61,0" concept="8" trace="OccursRange$6N" />
+      <node id="1899509154290316751" at="20,0,22,0" concept="1" trace="check_OccursRange_NonTypesystemRule#()V" />
+      <node id="1899509154290316751" at="44,0,47,0" concept="4" trace="getApplicableConcept#()Lorg/jetbrains/mps/openapi/language/SAbstractConcept;" />
+      <node id="1899509154290316751" at="47,0,50,0" concept="4" trace="isApplicableAndPattern#(Lorg/jetbrains/mps/openapi/model/SNode;)Ljetbrains/mps/lang/typesystem/runtime/IsApplicableStatus;" />
+      <node id="1899509154290316751" at="50,0,53,0" concept="4" trace="overrides#()Z" />
+      <node id="1899509154290327444" at="23,76,27,7" concept="0" />
+      <node id="1899509154290328830" at="30,75,34,7" concept="0" />
+      <node id="1899509154290382750" at="37,135,41,7" concept="0" />
+      <node id="1899509154290316770" at="22,124,28,5" concept="3" />
+      <node id="1899509154290326303" at="29,0,35,5" concept="3" />
+      <node id="1899509154290374312" at="36,0,42,5" concept="3" />
+      <node id="1899509154290316751" at="22,0,44,0" concept="4" trace="applyRule#(Lorg/jetbrains/mps/openapi/model/SNode;Ljetbrains/mps/typesystem/inference/TypeCheckingContext;Ljetbrains/mps/lang/typesystem/runtime/IsApplicableStatus;)V" />
+      <scope id="1899509154290316751" at="20,48,20,48" />
+      <scope id="1899509154290316751" at="44,50,45,35" />
+      <scope id="1899509154290316751" at="47,68,48,102" />
+      <scope id="1899509154290316751" at="50,30,51,17" />
+      <scope id="1899509154290316751" at="20,0,22,0" />
+      <scope id="1899509154290327444" at="24,7,26,248">
+        <var name="_reporter_2309309498" id="1899509154290327444" />
+        <var name="errorTarget" id="1899509154290327444" />
+      </scope>
+      <scope id="1899509154290328830" at="31,7,33,247">
+        <var name="_reporter_2309309498" id="1899509154290328830" />
+        <var name="errorTarget" id="1899509154290328830" />
+      </scope>
+      <scope id="1899509154290382750" at="38,7,40,238">
+        <var name="_reporter_2309309498" id="1899509154290382750" />
+        <var name="errorTarget" id="1899509154290382750" />
+      </scope>
+      <scope id="1899509154290316751" at="44,0,47,0" />
+      <scope id="1899509154290316751" at="47,0,50,0">
+        <var name="argument" id="1899509154290316751" />
+      </scope>
+      <scope id="1899509154290316751" at="50,0,53,0" />
+      <scope id="1899509154290316772" at="23,76,27,7" />
+      <scope id="1899509154290326305" at="30,75,34,7" />
+      <scope id="1899509154290374314" at="37,135,41,7" />
+      <scope id="1899509154290316752" at="22,124,42,5" />
+      <scope id="1899509154290316751" at="22,0,44,0">
+        <var name="occursRange" id="1899509154290316751" />
+        <var name="status" id="1899509154290316751" />
+        <var name="typeCheckingContext" id="1899509154290316751" />
+      </scope>
+      <unit id="1899509154290316751" at="59,0,62,0" name="Regex.typesystem.check_OccursRange_NonTypesystemRule$CONCEPTS" />
+      <unit id="1899509154290316751" at="54,0,58,0" name="Regex.typesystem.check_OccursRange_NonTypesystemRule$PROPS" />
+      <unit id="1899509154290316751" at="19,0,63,0" name="Regex.typesystem.check_OccursRange_NonTypesystemRule" />
+    </file>
+  </root>
+</debug-info>
+
